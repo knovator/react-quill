@@ -1,5 +1,5 @@
 {
-  "name": "knovator-react-quill",
+  "name": "react-quill",
   "version": "1.3.1",
   "description": "The Quill rich-text editor as a React component.",
   "author": "zenoamaro <zenoamaro@gmail.com>",
