@@ -48,9 +48,9 @@
     "@types/quill": "*",
     "@types/react": "*",
     "create-react-class": "^15.6.0",
+    "knovator-quill": "^2.0.0-dev.4",
     "lodash": "^4.17.4",
     "prop-types": "^15.5.10",
-    "quill": "git+https://github.com/knovator/quill.git#development",
     "react-dom-factories": "^1.0.0"
   },
   "peerDependencies": {
@@ -65,7 +65,7 @@
     "jsdom": "^11.0.0",
     "jsdom-global": "^3.0.2",
     "jshint": "^2.9.4",
-    "mocha": "^3.4.2",
+    "mocha": "^5.2.0",
     "mocha-text-cov": "^0.1.1",
     "react": "^15.6.1",
     "react-addons-test-utils": "^15.6.0",
